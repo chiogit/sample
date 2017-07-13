@@ -1,5 +1,6 @@
 @extends('layouts.default')
-@section('title','about')
+@section('title','注冊')
+
 @section('content')
-  <p>about</p>
+<h1>注冊</h1>
 @stop
